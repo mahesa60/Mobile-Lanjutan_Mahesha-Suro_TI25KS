@@ -1,16 +1,56 @@
-# projek_wa
+# ☕ UAS Pemrograman Mobile Lanjutan
 
-A new Flutter project.
+---
 
-## Getting Started
+# ☕ Rase Coffee
 
-This project is a starting point for a Flutter application.
+Rase Coffee merupakan aplikasi katalog dan pemesanan kopi premium khas Indonesia yang dikembangkan sebagai tugas **UAS Pemrograman Mobile Lanjutan**.
 
-A few resources to get you started if this is your first Flutter project:
+Aplikasi ini mengintegrasikan **Flutter** sebagai frontend, **Firebase Authentication** untuk autentikasi pengguna, serta **Backend Golang (Gin Framework)** sebagai REST API yang terhubung dengan **MySQL**.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🚀 Fitur Utama
+
+- Login & Register
+- Verifikasi Email menggunakan Firebase
+- Dashboard Produk
+- Katalog Kopi
+- Keranjang Belanja
+- Checkout
+- Profil Pengguna
+
+---
+## 📱 Login
+
+<img src="assets/screenshots/login.jpeg" width="250">
+
+---
+
+## 📝 Register
+
+<img src="assets/screenshots/daftar.jpeg" width="250">
+
+---
+
+## ☕ Dashboard
+
+<img src="assets/screenshots/dashboard.jpeg" width="250">
+
+---
+
+## 📦 Detail Produk
+
+<img src="assets/screenshots/info-produk.jpeg" width="250">
+
+---
+
+## 🛒 Keranjang
+
+<img src="assets/screenshots/keranjang.jpeg" width="250">
+
+---
+
+## 💳 Checkout
+
+<img src="assets/screenshots/checkout.jpeg" width="250">
