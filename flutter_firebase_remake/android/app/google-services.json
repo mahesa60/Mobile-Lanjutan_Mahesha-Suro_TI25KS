@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "737511082315",
+    "project_id": "flutter-firebase-remake",
+    "storage_bucket": "flutter-firebase-remake.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737511082315:android:20dedeb46d9a275ffa40ce",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_remake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737511082315-8e5vh931r5h0m25u0n7t26ikdvbi8b8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDsAMHQnM-FR6kuhJfxXeBGwgVIOVQQIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737511082315-8e5vh931r5h0m25u0n7t26ikdvbi8b8c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
