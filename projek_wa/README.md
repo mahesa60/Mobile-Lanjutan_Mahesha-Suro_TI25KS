@@ -45,6 +45,12 @@ Aplikasi ini mengintegrasikan **Flutter** sebagai frontend, **Firebase Authentic
 
 ---
 
+## 👤 Akun
+
+<img src="assets/screenshots/akun.jpeg" width="250">
+
+---
+
 ## 📦 Detail Produk
 
 <img src="assets/screenshots/info-produk.jpeg" width="250">\n<img src="assets/screenshots/info-produk2.jpeg" width="250">
