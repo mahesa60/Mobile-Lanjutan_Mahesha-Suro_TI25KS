@@ -7,5 +7,6 @@
 - **Mata Kuliah:** Aplikasi Mobile Lanjutan
 - ---
 # 📝 Catatan
-**UAS:** projek_wa
-**UTS:** flutter_firebase_remake
+
+- **UAS:** projek_wa
+- **UTS:** flutter_firebase_remake
