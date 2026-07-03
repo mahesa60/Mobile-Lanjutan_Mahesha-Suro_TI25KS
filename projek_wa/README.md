@@ -35,9 +35,7 @@ Aplikasi ini mengintegrasikan **Flutter** sebagai frontend, **Firebase Authentic
 
 ## 📧 Verifikasi
 
-<img src="assets/screenshots/verifikasi.jpeg" width="250">
-<img src="assets/screenshots/verif-email.jpeg" width="250">
-<img src="assets/screenshots/verif-sukses.jpeg" width="250">
+<img src="assets/screenshots/verifikasi.jpeg" width="250">\n<img src="assets/screenshots/verif-email.jpeg" width="250">\n<img src="assets/screenshots/verif-sukses.jpeg" width="250">
 
 ---
 
@@ -49,7 +47,7 @@ Aplikasi ini mengintegrasikan **Flutter** sebagai frontend, **Firebase Authentic
 
 ## 📦 Detail Produk
 
-<img src="assets/screenshots/info-produk.jpeg" width="250">
+<img src="assets/screenshots/info-produk.jpeg" width="250">\n<img src="assets/screenshots/info-produk2.jpeg" width="250">
 
 ---
 
@@ -67,9 +65,7 @@ Aplikasi ini mengintegrasikan **Flutter** sebagai frontend, **Firebase Authentic
 
 ## 💳 Checkout
 
-<img src="assets/screenshots/checkout.jpeg" width="250">
-<img src="assets/screenshots/checkout2.jpeg" width="250">
-<img src="assets/screenshots/checkout-sukses.jpeg" width="250">
+<img src="assets/screenshots/checkout.jpeg" width="250">\n<img src="assets/screenshots/checkout2.jpeg" width="250">\n<img src="assets/screenshots/checkout-sukses.jpeg" width="250">
 
 ---
 
